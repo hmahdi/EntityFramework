@@ -16,6 +16,7 @@ namespace EntityFramework
         public Form1()
         {
             InitializeComponent();
+            var i = 0;
         }
 
         protected override void OnShown(EventArgs e)
